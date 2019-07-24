@@ -15,6 +15,8 @@
 	+ [2ndhand_house](https://github.com/pingao777/2ndhand_house)：北京二手房价数据分析。
 	+ [Beijing-housePrice-income](https://github.com/siseventeen/Beijing-housePrice-income)：北京房价与收入关系图。
 	+ [house_price](https://github.com/liangkw16/house_price)：北京房价可视化分析。
+	+ **[HousePricingOfBeijing](https://github.com/hetianle/HousePricingOfBeijing)**：一个基于SOA架构的北京丝房价地理信息系统，提供北京市海量房源数据的位置信息和属性信息的空间可视化展示，房源位置、属性及其周边的查询筛选，包括每一处房源周边重要的基础设施（学校、公交车站、地铁站、医院、商业写字楼）等购房者最为关心的内容；
+
 - 上海
 	+ [shanghai-houseprice](https://github.com/springga/shanghai-houseprice)：上海各小区房价地图。
 - 杭州	
@@ -31,3 +33,13 @@
 	+ [WuxiBuyHouse](https://github.com/Emrys5/WuxiBuyHouse)：无锡买房记。
 - 成都
 	+ [chengdu_house_knowledge](https://github.com/careteenL/chengdu_house_knowledge)：成都购房知识。
+
+
+
+----------
+## 租房
+
+- **[Housedb](https://github.com/dee1024/housedb)**：房产信息网站大数据爬虫，定期更新房源数据，提供房源价格变动通知服务；
+- **[Fang_Scrapy](https://github.com/lihansunbai/Fang_Scrapy)**：爬虫，爬取58同城、赶集网、链家、安居客、我爱我家网站的房价交易数据；
+- **[tenant-point](https://github.com/soulteary/tenant-point)**：租房要点（使用北上广）；
+- **[house-renting](https://github.com/kezhenxu94/house-renting)**：租房信息聚合爬虫，基于Scrapy聚合豆瓣、链家、58同城等上百个城市租房信息；
