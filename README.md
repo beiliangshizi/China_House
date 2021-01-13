@@ -19,6 +19,7 @@
 
 - 上海
 	+ [shanghai-houseprice](https://github.com/springga/shanghai-houseprice)：上海各小区房价地图。
+	+ [shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge):2020年11月在上海买房经历
 - 杭州	
 	+ [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)：2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。
 - 武汉
@@ -43,3 +44,5 @@
 - **[Fang_Scrapy](https://github.com/lihansunbai/Fang_Scrapy)**：爬虫，爬取58同城、赶集网、链家、安居客、我爱我家网站的房价交易数据；
 - **[tenant-point](https://github.com/soulteary/tenant-point)**：租房要点（使用北上广）；
 - **[house-renting](https://github.com/kezhenxu94/house-renting)**：租房信息聚合爬虫，基于Scrapy聚合豆瓣、链家、58同城等上百个城市租房信息；
+
+
