@@ -3,7 +3,7 @@
 ## 买房常识 & 工具
 - [Fang](https://github.com/Wahitler/Fang)：买房的小知识，户型、房型。
 - [Buying-a-house-in-Hangzhou-in-2016](https://github.com/chahuilin/Buying-a-house-in-Hangzhou-in-2016)：买房费用记录。
-- [HousePricingOfBeijing](https://github.com/hetianle/HousePricingOfBeijing) ：基于SOA架构的北京丝房价地理信息系统，提供北京市海量房源数据的位置信息和属性信息的空间可视化展示，房源位置、属性及其周边的查询筛选
+- [HousePricingOfBeijing](https://github.com/hetianle/HousePricingOfBeijing) ：基于SOA架构的北京市房价地理信息系统，提供北京市海量房源数据的位置信息和属性信息的空间可视化展示，房源位置、属性及其周边的查询筛选
 - [you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)：程序员需要知道的房产信息。
 
 
@@ -13,7 +13,7 @@
 	+ [2ndhand_house](https://github.com/pingao777/2ndhand_house)：北京二手房价数据分析。
 	+ [Beijing-housePrice-income](https://github.com/siseventeen/Beijing-housePrice-income)：北京房价与收入关系图。
 	+ [house_price](https://github.com/liangkw16/house_price)：北京房价可视化分析。
-	+ **[HousePricingOfBeijing](https://github.com/hetianle/HousePricingOfBeijing)**：一个基于SOA架构的北京丝房价地理信息系统，提供北京市海量房源数据的位置信息和属性信息的空间可视化展示，房源位置、属性及其周边的查询筛选，包括每一处房源周边重要的基础设施（学校、公交车站、地铁站、医院、商业写字楼）等购房者最为关心的内容；
+	+ **[HousePricingOfBeijing](https://github.com/hetianle/HousePricingOfBeijing)**：一个基于SOA架构的北京市房价地理信息系统，提供北京市海量房源数据的位置信息和属性信息的空间可视化展示，房源位置、属性及其周边的查询筛选，包括每一处房源周边重要的基础设施（学校、公交车站、地铁站、医院、商业写字楼）等购房者最为关心的内容；
 
 - 上海
 	+ [shanghai-houseprice](https://github.com/springga/shanghai-houseprice)：上海各小区房价地图。
