@@ -32,8 +32,8 @@
 	+ [WuxiBuyHouse](https://github.com/Emrys5/WuxiBuyHouse)：无锡买房记。
 - 成都
 	+ [chengdu_house_knowledge](https://github.com/careteenL/chengdu_house_knowledge)：成都购房知识。
-
-
+- 宁波
+	+ [ningbo_house_knowledge](https://github.com/JeffYoung17/ningbo_house_knowledge)：宁波房产知识。
 
 ----------
 ## 租房
